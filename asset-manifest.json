@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/cahoots/static/css/main.c2baeed5.chunk.css",
-    "main.js": "/cahoots/static/js/main.d40d2239.chunk.js",
-    "main.js.map": "/cahoots/static/js/main.d40d2239.chunk.js.map",
-    "runtime-main.js": "/cahoots/static/js/runtime-main.0c876a5a.js",
-    "runtime-main.js.map": "/cahoots/static/js/runtime-main.0c876a5a.js.map",
-    "static/css/2.3661fc73.chunk.css": "/cahoots/static/css/2.3661fc73.chunk.css",
-    "static/js/2.80f76055.chunk.js": "/cahoots/static/js/2.80f76055.chunk.js",
-    "static/js/2.80f76055.chunk.js.map": "/cahoots/static/js/2.80f76055.chunk.js.map",
-    "index.html": "/cahoots/index.html",
-    "precache-manifest.ff8dc9095c7f00f8d6769171360a33a3.js": "/cahoots/precache-manifest.ff8dc9095c7f00f8d6769171360a33a3.js",
-    "service-worker.js": "/cahoots/service-worker.js",
-    "static/css/2.3661fc73.chunk.css.map": "/cahoots/static/css/2.3661fc73.chunk.css.map",
-    "static/css/main.c2baeed5.chunk.css.map": "/cahoots/static/css/main.c2baeed5.chunk.css.map",
-    "static/js/2.80f76055.chunk.js.LICENSE.txt": "/cahoots/static/js/2.80f76055.chunk.js.LICENSE.txt"
+    "main.css": "/demo-firebase/static/css/main.c2baeed5.chunk.css",
+    "main.js": "/demo-firebase/static/js/main.b2f58920.chunk.js",
+    "main.js.map": "/demo-firebase/static/js/main.b2f58920.chunk.js.map",
+    "runtime-main.js": "/demo-firebase/static/js/runtime-main.da362477.js",
+    "runtime-main.js.map": "/demo-firebase/static/js/runtime-main.da362477.js.map",
+    "static/css/2.3661fc73.chunk.css": "/demo-firebase/static/css/2.3661fc73.chunk.css",
+    "static/js/2.7ca4ae6e.chunk.js": "/demo-firebase/static/js/2.7ca4ae6e.chunk.js",
+    "static/js/2.7ca4ae6e.chunk.js.map": "/demo-firebase/static/js/2.7ca4ae6e.chunk.js.map",
+    "index.html": "/demo-firebase/index.html",
+    "precache-manifest.b7e7bed035d582ec9acf04d54dd690a8.js": "/demo-firebase/precache-manifest.b7e7bed035d582ec9acf04d54dd690a8.js",
+    "service-worker.js": "/demo-firebase/service-worker.js",
+    "static/css/2.3661fc73.chunk.css.map": "/demo-firebase/static/css/2.3661fc73.chunk.css.map",
+    "static/css/main.c2baeed5.chunk.css.map": "/demo-firebase/static/css/main.c2baeed5.chunk.css.map",
+    "static/js/2.7ca4ae6e.chunk.js.LICENSE.txt": "/demo-firebase/static/js/2.7ca4ae6e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0c876a5a.js",
+    "static/js/runtime-main.da362477.js",
     "static/css/2.3661fc73.chunk.css",
-    "static/js/2.80f76055.chunk.js",
+    "static/js/2.7ca4ae6e.chunk.js",
     "static/css/main.c2baeed5.chunk.css",
-    "static/js/main.d40d2239.chunk.js"
+    "static/js/main.b2f58920.chunk.js"
   ]
 }
